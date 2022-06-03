@@ -1,0 +1,131 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: #999;
+	text-decoration: none;
+}
+body {
+	background-color:black;
+	color: #555;
+	font:  15px sans-serif,Arial;
+	margin: 0;
+	text-align: right;
+}
+ul {
+	margin: 12px 0;
+}
+li {
+
+	margin-left: 18px;
+}
+code {
+	color: white;
+	display: grid;
+	font: normal 1em "Lucida Sans Unicode",serif;
+	margin-bottom: 12px;
+	padding: 3px 6px;
+	white-space: pre;
+}
+
+cite {
+	color: white;
+	display: grid;
+	font: normal 1.1em "Lucida Sans Unicode",serif;
+	margin-bottom: 12px;
+	padding-left: 28px;
+}
+
+
+
+.main {
+	background: #000; 
+	border: 3px double #CCC ; 
+	border-color: #141414 #202020 #222 ; 
+	margin: 20px auto 4px auto; 
+	text-align: center;
+	width: 600px; 
+}
+
+p {
+	font-family:Arial Black;
+	font-size:14px;
+	color:white;
+	
+}
+.main1 h1 {
+	color: white;
+	font-family:Broadway;
+	font: normal 2.6em Tahoma,;
+	padding: 16px 20px;
+}
+
+.main1 	{
+	background: #222 url(pen.jpg) no-repeat;
+	height: 240px;
+}
+
+
+
+.menu a {
+	background: #000 url(img/bgmenu.png) repeat-x;
+	border-right: 1px solid #222;
+	border-top: 1px solid #1A1A1A;
+	color: #444;
+	float: left;
+	font-size: 1.2em;
+	padding-top: 4px;
+	width: 149px; height: 36px;
+}
+.menu a span {
+	padding-left: px 22px;
+}
+.menu a:hover {
+	background-position: left bottom;
+	color: #666;
+}
+.menu a#last {
+	border-right: none;
+	width: 150px;
+}
+
+img {
+	display:
+	
+}
+.content ol {
+	font-family:Ebrima;
+	font-size:17px;
+	color:white;
+}
+
+.content {
+	background: #1A1A1A;
+	border-top: 1px solid #1A1A1A;
+	
+}
+.content h1 {
+	color: #666;
+	font: bold 1.1em Arial;
+	margin: 0 0 4px;
+}
+.content p {
+	margin: 0 0 12px;
+	font-size:16px;
+	font-family:Ebrima;
+}
+.item {
+	background:black;
+	padding: 8px 10px;
+}
+
+
+
+.footer {
+	background: #0A0A0A;
+	color: #666;
+	padding: 5px;
+} 

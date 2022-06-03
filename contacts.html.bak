@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my portfolio</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+
+<div class="main">
+  <div class="main1">
+    <h1>MY PORTFOLIO : BAFOKENG KHOALI</h1>
+	<p>thank you for checking out my portfolio</p>
+  </div>
+<div class="menu"> 
+		 <a href="./port.html"><span>little about me</span></a>
+		 <a href="./contacts.html"><span>contacts</span></a> 
+		 <a href="work.html" ><span>work experience</span></a>
+		 <a href="services.html" ><span>services</span></a>
+		 </div>
+  
+<br /><br /><br /><br />
+<h3>CONTACTS</h3>
+<br />	
+		<img src="021.jpg" style="width:70%; margin-left:auto; margin-right:auto; display:block; ">
+<h2 style="color:white";>follow me </h2>
+
+<p>For enquiries, you can email us anytime at 
+baffkay20@gmail.com  
+
+<address style="color:white; font-size:20px; font-weight:bold";>
+Box 1279, hapita <br />Maseru 100
+<br />
+Lesotho
+</address>
+<p>Alternatively, you can dial <em><u>+266 5376 4723</u></em> from your mobile. I operate from 8:00am to 5:00pm on Monday to Friday. </p>
+
+  <div class="footer">&copy; 2022 <span>bafokeng.com</span>. Design by <span>baffy kay</span></div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my portfolio</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+<div class="main">
+  <div class="main1">
+    <h1>MY PORTFOLIO : BAFOKENG KHOALI</h1>
+	<p>thank you for checking out my portfolio</p>
+  </div>
+  <div class="menu"> 
+		 <a href="./port.html"><span>little about me</span></a>
+		 <a href="./contacts.html"><span>contacts</span></a> 
+		 <a href="work.html" ><span>work experience</span></a>
+		 <a href="services.html" ><span>services</span></a>
+		 </div>
+  
+  <div class="content">
+    <div class="item"><br /><br /><br /><br /><br />
+		<h1>SERVICES</h1>
+		<br />
+		<img src="021.jpg" style="width:70%; margin-left:auto; margin-right:auto; display:block; ">
+		<br /><br /><br />
+		<h1>EDUCATE</h1>
+		<p>A great teacher should love educating students, and one of the principal goals I set for myself 
+		is to be the best educator there can be. There is
+		something extremely gratifying about imparting information to your students and working 
+		with them to ensure they understand, not only concepts,
+		but practical applications as well. 
+		</p>
+		<br /><br />
+		<h1> INSPIRE</h1>
+		<p>I seek to inspire students in all aspects of their lives. My greatest goal is to be a role model. 
+		A role model is someone who inspires and encourages students to strive for greatness, and teaches 
+		them through experience and commitment how to realize their full potential to become the best they can be. 
+		I can inspire an uninterested student to become engrossed in learning.
+		</p>
+		<br /><br />
+
+		  <div class="footer">&copy; 2022 <span>bafokeng.com</span>. Design by <span>baffy kay</span></div>
+  </body>
+  </html>
